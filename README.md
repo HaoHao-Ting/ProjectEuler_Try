@@ -2,6 +2,8 @@
 This repo contains solutions for Project Euler problems in MATLAB languages. 
 # Problems Archives
 <https://projecteuler.net/archives>
+中文版本：
+<http://pe-cn.github.io/>
 # Repo Objectives
 The repo is used to impore my MATLAB skill and document my solution to the Project Euler problem.
 
